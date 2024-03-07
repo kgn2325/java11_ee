@@ -1,0 +1,3 @@
+
+module Good_School {
+}

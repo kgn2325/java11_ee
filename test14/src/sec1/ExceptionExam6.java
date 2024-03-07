@@ -12,8 +12,7 @@ public class ExceptionExam6 {
 		}catch(Exception e) {
 			System.out.println("원인불명");
 		}finally {
-			System.out.println("종료"
-					+ "");
+			System.out.println("종료");
 		}
 		
 
